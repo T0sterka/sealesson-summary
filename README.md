@@ -118,11 +118,9 @@ python -m unittest discover tests
 
 ---
 
-⭐ Если проект вам понравился, поставьте звезду на GitHub!  
-🐞 Нашли ошибку? [Создайте issue](https://github.com/yourusername/voice2text-bot/issues)  
-💡 Есть идеи? Предложите улучшения через Pull Request!  
+⭐ Если проект вам понравился, поставьте звезду на GitHub!    
 
-📩 Контакты: [@yourtelegram](https://t.me/yourtelegram) | your@email.com
+📩 Контакты: [@Vodorosol_lotus](https://t.me/Vodorosol_lotus) | shofayzievsaid@gmail.com
 ```
 
 Этот файл:
