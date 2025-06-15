@@ -1,6 +1,3 @@
-Вот красивый и информативный шаблон для вашего `README.md` в репозитории [sealesson-summary](https://github.com/T0sterka/sealesson-summary.git):
-
-```markdown
 # 🌊 Sealesson Summary
 
 ![GitHub last commit](https://img.shields.io/github/last-commit/T0sterka/sealesson-summary)
